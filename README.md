@@ -119,10 +119,9 @@ Potential improvements include:
 * Admin reporting dashboard
 * Improved database configuration security
 
-## Author
+## Authors
 
 Joshua O'Keefe
+Austin St.Croix
+Jaden Froude
 
-GitHub: https://github.com/Josh-L-OKeefe
-
-LinkedIn: https://www.linkedin.com/in/joshua-o-keefe-bb10522a4/
